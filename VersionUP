@@ -2,5 +2,5 @@ VersionUP
 some method will not be used by new version
 should change the method with new version method
 and test
-the test step is find file where used the method --> right click --> maven(if it is a maven file) --> maven test.
-chatgpt told me it will be more safe if using "javadoc:javadoc".I will do it in future.
+the test step is find file where used the method --> right click --> run java object.
+My level is not enough to test code so this is a simple way to test code told by my senior
